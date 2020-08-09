@@ -1,3 +1,5 @@
+# :heavy_exclamation_mark: DEPRECATED see https://github.com/WDAqua/Qanary-question-answering-components for an up-to-date version of Qanary components
+
 ![](https://raw.githubusercontent.com/WDAqua/Qanary/master/doc/logo-qanary_s.png)
 
 # A Reference Implementation for Creating Question Answering Systems following the Qanary Methodology
